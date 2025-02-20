@@ -1,0 +1,325 @@
+﻿school,fall_year,spring_year,academic_year,race,completed_bachelors
+Stanford,2023,2024,2023-24,US Nonresident,165
+Stanford,2023,2024,2023-24,Hispanic/Latinx,263
+Stanford,2023,2024,2023-24,Amer Ind or AK Native,12
+Stanford,2023,2024,2023-24,Asian,338
+Stanford,2023,2024,2023-24,Black or Af Amer,92
+Stanford,2023,2024,2023-24,Nat HA or Other Pac Isl,4
+Stanford,2023,2024,2023-24,White,504
+Stanford,2023,2024,2023-24,Two or More,164
+Stanford,2023,2024,2023-24,Unknown,4
+Stanford,2022,2023,2022-23,US Nonresident,171
+Stanford,2022,2023,2022-23,Hispanic/Latinx,252
+Stanford,2022,2023,2022-23,Amer Ind or AK Native,14
+Stanford,2022,2023,2022-23,Asian,361
+Stanford,2022,2023,2022-23,Black or Af Amer,99
+Stanford,2022,2023,2022-23,Nat HA or Other Pac Isl,7
+Stanford,2022,2023,2022-23,White,492
+Stanford,2022,2023,2022-23,Two or More,161
+Stanford,2022,2023,2022-23,Unknown,10
+Stanford,2021,2022,2021-22,US Nonresident,151
+Stanford,2021,2022,2021-22,Hispanic/Latinx,212
+Stanford,2021,2022,2021-22,Amer Ind or AK Native,12
+Stanford,2021,2022,2021-22,Asian,330
+Stanford,2021,2022,2021-22,Black or Af Amer,101
+Stanford,2021,2022,2021-22,Nat HA or Other Pac Isl,3
+Stanford,2021,2022,2021-22,White,485
+Stanford,2021,2022,2021-22,Two or More,120
+Stanford,2021,2022,2021-22,Unknown,7
+Stanford,2020,2021,2020-21,US Nonresident,162
+Stanford,2020,2021,2020-21,Hispanic/Latinx,275
+Stanford,2020,2021,2020-21,Amer Ind or AK Native,5
+Stanford,2020,2021,2020-21,Asian,373
+Stanford,2020,2021,2020-21,Black or Af Amer,114
+Stanford,2020,2021,2020-21,Nat HA or Other Pac Isl,2
+Stanford,2020,2021,2020-21,White,591
+Stanford,2020,2021,2020-21,Two or More,143
+Stanford,2020,2021,2020-21,Unknown,10
+Stanford,2019,2020,2019-20,US Nonresident,167
+Stanford,2019,2020,2019-20,Hispanic/Latinx,264
+Stanford,2019,2020,2019-20,Amer Ind or AK Native,14
+Stanford,2019,2020,2019-20,Asian,381
+Stanford,2019,2020,2019-20,Black or Af Amer,97
+Stanford,2019,2020,2019-20,Nat HA or Other Pac Isl,7
+Stanford,2019,2020,2019-20,White,652
+Stanford,2019,2020,2019-20,Two or More,197
+Stanford,2019,2020,2019-20,Unknown,6
+Stanford,2018,2019,2018-19,US Nonresident,122
+Stanford,2018,2019,2018-19,Hispanic/Latinx,272
+Stanford,2018,2019,2018-19,Amer Ind or AK Native,22
+Stanford,2018,2019,2018-19,Asian,344
+Stanford,2018,2019,2018-19,Black or Af Amer,106
+Stanford,2018,2019,2018-19,Nat HA or Other Pac Isl,6
+Stanford,2018,2019,2018-19,White,622
+Stanford,2018,2019,2018-19,Two or More,176
+Stanford,2018,2019,2018-19,Unknown,5
+Stanford,2017,2018,2017-18,US Nonresident,140
+Stanford,2017,2018,2017-18,Hispanic/Latinx,252
+Stanford,2017,2018,2017-18,Amer Ind or AK Native,19
+Stanford,2017,2018,2017-18,Asian,300
+Stanford,2017,2018,2017-18,Black or Af Amer,89
+Stanford,2017,2018,2017-18,Nat HA or Other Pac Isl,5
+Stanford,2017,2018,2017-18,White,595
+Stanford,2017,2018,2017-18,Two or More,157
+Stanford,2017,2018,2017-18,Unknown,9
+Stanford,2016,2017,2016-17,US Nonresident,127
+Stanford,2016,2017,2016-17,Hispanic/Latinx,242
+Stanford,2016,2017,2016-17,Amer Ind or AK Native,16
+Stanford,2016,2017,2016-17,Asian,327
+Stanford,2016,2017,2016-17,Black or Af Amer,103
+Stanford,2016,2017,2016-17,Nat HA or Other Pac Isl,1
+Stanford,2016,2017,2016-17,White,659
+Stanford,2016,2017,2016-17,Two or More,170
+Stanford,2016,2017,2016-17,Unknown,5
+Stanford,2015,2016,2015-16,US Nonresident,117
+Stanford,2015,2016,2015-16,Hispanic/Latinx,289
+Stanford,2015,2016,2015-16,Amer Ind or AK Native,8
+Stanford,2015,2016,2015-16,Asian,307
+Stanford,2015,2016,2015-16,Black or Af Amer,103
+Stanford,2015,2016,2015-16,Nat HA or Other Pac Isl,9
+Stanford,2015,2016,2015-16,White,583
+Stanford,2015,2016,2015-16,Two or More,153
+Stanford,2015,2016,2015-16,Unknown,7
+Duke,2023,2024,2023-24,US Nonresident,431
+Duke,2023,2024,2023-24,Hispanic/Latinx,237
+Duke,2023,2024,2023-24,Amer Ind or AK Native,6
+Duke,2023,2024,2023-24,Asian,389
+Duke,2023,2024,2023-24,Black or Af Amer,189
+Duke,2023,2024,2023-24,Nat HA or Other Pac Isl,2
+Duke,2023,2024,2023-24,White,816
+Duke,2023,2024,2023-24,Two or More,111
+Duke,2023,2024,2023-24,Unknown,94
+Duke,2022,2023,2022-23,US Nonresident,127
+Duke,2022,2023,2022-23,Hispanic/Latinx,183
+Duke,2022,2023,2022-23,Amer Ind or AK Native,12
+Duke,2022,2023,2022-23,Asian,400
+Duke,2022,2023,2022-23,Black or Af Amer,140
+Duke,2022,2023,2022-23,Nat HA or Other Pac Isl,2
+Duke,2022,2023,2022-23,White,835
+Duke,2022,2023,2022-23,Two or More,72
+Duke,2022,2023,2022-23,Unknown,79
+Duke,2021,2022,2021-22,US Nonresident,159
+Duke,2021,2022,2021-22,Hispanic/Latinx,210
+Duke,2021,2022,2021-22,Amer Ind or AK Native,9
+Duke,2021,2022,2021-22,Asian,336
+Duke,2021,2022,2021-22,Black or Af Amer,180
+Duke,2021,2022,2021-22,Nat HA or Other Pac Isl,1
+Duke,2021,2022,2021-22,White,800
+Duke,2021,2022,2021-22,Two or More,62
+Duke,2021,2022,2021-22,Unknown,84
+Duke,2020,2021,2020-21,US Nonresident,184
+Duke,2020,2021,2020-21,Hispanic/Latinx,188
+Duke,2020,2021,2020-21,Amer Ind or AK Native,9
+Duke,2020,2021,2020-21,Asian,377
+Duke,2020,2021,2020-21,Black or Af Amer,170
+Duke,2020,2021,2020-21,Nat HA or Other Pac Isl,1
+Duke,2020,2021,2020-21,White,884
+Duke,2020,2021,2020-21,Two or More,59
+Duke,2020,2021,2020-21,Unknown,49
+Duke,2019,2020,2019-20,US Nonresident,165
+Duke,2019,2020,2019-20,Hispanic/Latinx,199
+Duke,2019,2020,2019-20,Amer Ind or AK Native,4
+Duke,2019,2020,2019-20,Asian,364
+Duke,2019,2020,2019-20,Black or Af Amer,142
+Duke,2019,2020,2019-20,Nat HA or Other Pac Isl,1
+Duke,2019,2020,2019-20,White,881
+Duke,2019,2020,2019-20,Two or More,54
+Duke,2019,2020,2019-20,Unknown,48
+Duke,2018,2019,2018-19,US Nonresident,178
+Duke,2018,2019,2018-19,Hispanic/Latinx,156
+Duke,2018,2019,2018-19,Amer Ind or AK Native,13
+Duke,2018,2019,2018-19,Asian,386
+Duke,2018,2019,2018-19,Black or Af Amer,167
+Duke,2018,2019,2018-19,Nat HA or Other Pac Isl,4
+Duke,2018,2019,2018-19,White,850
+Duke,2018,2019,2018-19,Two or More,20
+Duke,2018,2019,2018-19,Unknown,82
+Duke,2017,2018,2017-18,US Nonresident,175
+Duke,2017,2018,2017-18,Hispanic/Latinx,121
+Duke,2017,2018,2017-18,Amer Ind or AK Native,8
+Duke,2017,2018,2017-18,Asian,364
+Duke,2017,2018,2017-18,Black or Af Amer,164
+Duke,2017,2018,2017-18,Nat HA or Other Pac Isl,0
+Duke,2017,2018,2017-18,White,934
+Duke,2017,2018,2017-18,Two or More,26
+Duke,2017,2018,2017-18,Unknown,87
+Duke,2016,2017,2016-17,US Nonresident,147
+Duke,2016,2017,2016-17,Hispanic/Latinx,82
+Duke,2016,2017,2016-17,Amer Ind or AK Native,12
+Duke,2016,2017,2016-17,Asian,353
+Duke,2016,2017,2016-17,Black or Af Amer,163
+Duke,2016,2017,2016-17,Nat HA or Other Pac Isl,0
+Duke,2016,2017,2016-17,White,885
+Duke,2016,2017,2016-17,Two or More,55
+Duke,2016,2017,2016-17,Unknown,113
+Duke,2015,2016,2015-16,US Nonresident,142
+Duke,2015,2016,2015-16,Hispanic/Latinx,104
+Duke,2015,2016,2015-16,Amer Ind or AK Native,5
+Duke,2015,2016,2015-16,Asian,360
+Duke,2015,2016,2015-16,Black or Af Amer,181
+Duke,2015,2016,2015-16,Nat HA or Other Pac Isl,1
+Duke,2015,2016,2015-16,White,953
+Duke,2015,2016,2015-16,Two or More,33
+Duke,2015,2016,2015-16,Unknown,61
+UofMich,2023,2024,2023-24,US Nonresident,835
+UofMich,2023,2024,2023-24,Hispanic/Latinx,527
+UofMich,2023,2024,2023-24,Amer Ind or AK Native,10
+UofMich,2023,2024,2023-24,Asian,1336
+UofMich,2023,2024,2023-24,Black or Af Amer,276
+UofMich,2023,2024,2023-24,Nat HA or Other Pac Isl,2
+UofMich,2023,2024,2023-24,White,4199
+UofMich,2023,2024,2023-24,Two or More,362
+UofMich,2023,2024,2023-24,Unknown,384
+UofMich,2022,2023,2022-23,US Nonresident,737
+UofMich,2022,2023,2022-23,Hispanic/Latinx,533
+UofMich,2022,2023,2022-23,Amer Ind or AK Native,4
+UofMich,2022,2023,2022-23,Asian,1240
+UofMich,2022,2023,2022-23,Black or Af Amer,284
+UofMich,2022,2023,2022-23,Nat HA or Other Pac Isl,1
+UofMich,2022,2023,2022-23,White,4240
+UofMich,2022,2023,2022-23,Two or More,373
+UofMich,2022,2023,2022-23,Unknown,385
+UofMich,2021,2022,2021-22,US Nonresident,720
+UofMich,2021,2022,2021-22,Hispanic/Latinx,495
+UofMich,2021,2022,2021-22,Amer Ind or AK Native,13
+UofMich,2021,2022,2021-22,Asian,1147
+UofMich,2021,2022,2021-22,Black or Af Amer,333
+UofMich,2021,2022,2021-22,Nat HA or Other Pac Isl,8
+UofMich,2021,2022,2021-22,White,4564
+UofMich,2021,2022,2021-22,Two or More,341
+UofMich,2021,2022,2021-22,Unknown,374
+UofMich,2020,2021,2020-21,US Nonresident,654
+UofMich,2020,2021,2020-21,Hispanic/Latinx,439
+UofMich,2020,2021,2020-21,Amer Ind or AK Native,6
+UofMich,2020,2021,2020-21,Asian,1195
+UofMich,2020,2021,2020-21,Black or Af Amer,266
+UofMich,2020,2021,2020-21,Nat HA or Other Pac Isl,4
+UofMich,2020,2021,2020-21,White,4520
+UofMich,2020,2021,2020-21,Two or More,329
+UofMich,2020,2021,2020-21,Unknown,221
+UofMich,2019,2020,2019-20,US Nonresident,568
+UofMich,2019,2020,2019-20,Hispanic/Latinx,326
+UofMich,2019,2020,2019-20,Amer Ind or AK Native,7
+UofMich,2019,2020,2019-20,Asian,898
+UofMich,2019,2020,2019-20,Black or Af Amer,299
+UofMich,2019,2020,2019-20,Nat HA or Other Pac Isl,4
+UofMich,2019,2020,2019-20,White,4193
+UofMich,2019,2020,2019-20,Two or More,238
+UofMich,2019,2020,2019-20,Unknown,376
+UofMich,2018,2019,2018-19,US Nonresident,562
+UofMich,2018,2019,2018-19,Hispanic/Latinx,331
+UofMich,2018,2019,2018-19,Amer Ind or AK Native,13
+UofMich,2018,2019,2018-19,Asian,986
+UofMich,2018,2019,2018-19,Black or Af Amer,266
+UofMich,2018,2019,2018-19,Nat HA or Other Pac Isl,2
+UofMich,2018,2019,2018-19,White,4554
+UofMich,2018,2019,2018-19,Two or More,240
+UofMich,2018,2019,2018-19,Unknown,343
+UofMich,2017,2018,2017-18,US Nonresident,570
+UofMich,2017,2018,2017-18,Hispanic/Latinx,305
+UofMich,2017,2018,2017-18,Amer Ind or AK Native,16
+UofMich,2017,2018,2017-18,Asian,818
+UofMich,2017,2018,2017-18,Black or Af Amer,278
+UofMich,2017,2018,2017-18,Nat HA or Other Pac Isl,1
+UofMich,2017,2018,2017-18,White,4200
+UofMich,2017,2018,2017-18,Two or More,216
+UofMich,2017,2018,2017-18,Unknown,502
+UofMich,2016,2017,2016-17,US Nonresident,585
+UofMich,2016,2017,2016-17,Hispanic/Latinx,262
+UofMich,2016,2017,2016-17,Amer Ind or AK Native,12
+UofMich,2016,2017,2016-17,Asian,845
+UofMich,2016,2017,2016-17,Black or Af Amer,275
+UofMich,2016,2017,2016-17,Nat HA or Other Pac Isl,3
+UofMich,2016,2017,2016-17,White,4208
+UofMich,2016,2017,2016-17,Two or More,202
+UofMich,2016,2017,2016-17,Unknown,541
+UofMich,2015,2016,2015-16,US Nonresident,582
+UofMich,2015,2016,2015-16,Hispanic/Latinx,295
+UofMich,2015,2016,2015-16,Amer Ind or AK Native,5
+UofMich,2015,2016,2015-16,Asian,856
+UofMich,2015,2016,2015-16,Black or Af Amer,281
+UofMich,2015,2016,2015-16,Nat HA or Other Pac Isl,3
+UofMich,2015,2016,2015-16,White,4215
+UofMich,2015,2016,2015-16,Two or More,205
+UofMich,2015,2016,2015-16,Unknown,495
+Columbia,2023,2024,2023-24,US Nonresident,550
+Columbia,2023,2024,2023-24,Hispanic/Latinx,326
+Columbia,2023,2024,2023-24,Amer Ind or AK Native,9
+Columbia,2023,2024,2023-24,Asian,420
+Columbia,2023,2024,2023-24,Black or Af Amer,150
+Columbia,2023,2024,2023-24,Nat HA or Other Pac Isl,2
+Columbia,2023,2024,2023-24,White,788
+Columbia,2023,2024,2023-24,Two or More,132
+Columbia,2023,2024,2023-24,Unknown,39
+Columbia,2022,2023,2022-23,US Nonresident,465
+Columbia,2022,2023,2022-23,Hispanic/Latinx,274
+Columbia,2022,2023,2022-23,Amer Ind or AK Native,10
+Columbia,2022,2023,2022-23,Asian,412
+Columbia,2022,2023,2022-23,Black or Af Amer,158
+Columbia,2022,2023,2022-23,Nat HA or Other Pac Isl,1
+Columbia,2022,2023,2022-23,White,723
+Columbia,2022,2023,2022-23,Two or More,125
+Columbia,2022,2023,2022-23,Unknown,41
+Columbia,2021,2022,2021-22,US Nonresident,432
+Columbia,2021,2022,2021-22,Hispanic/Latinx,289
+Columbia,2021,2022,2021-22,Amer Ind or AK Native,7
+Columbia,2021,2022,2021-22,Asian,338
+Columbia,2021,2022,2021-22,Black or Af Amer,126
+Columbia,2021,2022,2021-22,Nat HA or Other Pac Isl,3
+Columbia,2021,2022,2021-22,White,745
+Columbia,2021,2022,2021-22,Two or More,101
+Columbia,2021,2022,2021-22,Unknown,82
+Columbia,2020,2021,2020-21,US Nonresident,423
+Columbia,2020,2021,2020-21,Hispanic/Latinx,278
+Columbia,2020,2021,2020-21,Amer Ind or AK Native,9
+Columbia,2020,2021,2020-21,Asian,394
+Columbia,2020,2021,2020-21,Black or Af Amer,141
+Columbia,2020,2021,2020-21,Nat HA or Other Pac Isl,2
+Columbia,2020,2021,2020-21,White,807
+Columbia,2020,2021,2020-21,Two or More,118
+Columbia,2020,2021,2020-21,Unknown,110
+Columbia,2019,2020,2019-20,US Nonresident,393
+Columbia,2019,2020,2019-20,Hispanic/Latinx,277
+Columbia,2019,2020,2019-20,Amer Ind or AK Native,8
+Columbia,2019,2020,2019-20,Asian,359
+Columbia,2019,2020,2019-20,Black or Af Amer,148
+Columbia,2019,2020,2019-20,Nat HA or Other Pac Isl,2
+Columbia,2019,2020,2019-20,White,803
+Columbia,2019,2020,2019-20,Two or More,114
+Columbia,2019,2020,2019-20,Unknown,89
+Columbia,2018,2019,2018-19,US Nonresident,362
+Columbia,2018,2019,2018-19,Hispanic/Latinx,264
+Columbia,2018,2019,2018-19,Amer Ind or AK Native,5
+Columbia,2018,2019,2018-19,Asian,332
+Columbia,2018,2019,2018-19,Black or Af Amer,163
+Columbia,2018,2019,2018-19,Nat HA or Other Pac Isl,1
+Columbia,2018,2019,2018-19,White,750
+Columbia,2018,2019,2018-19,Two or More,108
+Columbia,2018,2019,2018-19,Unknown,73
+Columbia,2017,2018,2017-18,US Nonresident,328
+Columbia,2017,2018,2017-18,Hispanic/Latinx,238
+Columbia,2017,2018,2017-18,Amer Ind or AK Native,7
+Columbia,2017,2018,2017-18,Asian,357
+Columbia,2017,2018,2017-18,Black or Af Amer,120
+Columbia,2017,2018,2017-18,Nat HA or Other Pac Isl,3
+Columbia,2017,2018,2017-18,White,770
+Columbia,2017,2018,2017-18,Two or More,86
+Columbia,2017,2018,2017-18,Unknown,106
+Columbia,2016,2017,2016-17,US Nonresident,311
+Columbia,2016,2017,2016-17,Hispanic/Latinx,279
+Columbia,2016,2017,2016-17,Amer Ind or AK Native,11
+Columbia,2016,2017,2016-17,Asian,379
+Columbia,2016,2017,2016-17,Black or Af Amer,167
+Columbia,2016,2017,2016-17,Nat HA or Other Pac Isl,1
+Columbia,2016,2017,2016-17,White,887
+Columbia,2016,2017,2016-17,Two or More,85
+Columbia,2016,2017,2016-17,Unknown,101
+Columbia,2015,2016,2015-16,US Nonresident,271
+Columbia,2015,2016,2015-16,Hispanic/Latinx,266
+Columbia,2015,2016,2015-16,Amer Ind or AK Native,9
+Columbia,2015,2016,2015-16,Asian,314
+Columbia,2015,2016,2015-16,Black or Af Amer,154
+Columbia,2015,2016,2015-16,Nat HA or Other Pac Isl,2
+Columbia,2015,2016,2015-16,White,841
+Columbia,2015,2016,2015-16,Two or More,90
+Columbia,2015,2016,2015-16,Unknown,114

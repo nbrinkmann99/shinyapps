@@ -1,0 +1,29 @@
+﻿variable_name,variable_description
+AB,at bats
+age,player's age
+AVG,batting average
+batter_ID,randomly assigned ID number
+BB,base-on-balls
+CS,caught stealing
+division,"division the player's team is in; East, West, Central (denote along with the league abbreviation AL or NL)"
+doubles,doubles
+G,number of regular season games the player appeared in
+H,hits
+HR,home runs
+league,league the player's team is in; American League (AL) or National League (NL)
+name,player's name
+OBP,on-base percentage
+OPS,on-base plus slugging (hits + walks + hit-by-pitch) / (at-bats + walks + hit-by-pitch + sacrifice flies)
+position,player's position
+R,runs
+RBI,runs batted in
+salary,player's salary
+SB,stolen bases
+SLG,slugging
+SO,strike outs
+team,three-letter abbreviation for each team
+team_division_standing,season-end place of the player's team in their respective division
+team_rank,season-end rank of teams by wins (highest to lowest; values 1-30)
+team_win_pct,percentage of season games by player's team that were wins (1 minus this value is the percentage of season games that were losses)
+team_wins,number of regular season wins by player's team
+triples,triples

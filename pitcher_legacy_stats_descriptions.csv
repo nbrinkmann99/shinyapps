@@ -1,0 +1,34 @@
+﻿variable_name,variable_description
+age,player's age
+AVG,batting average of opposing hits against a pitcher
+BB,base-on-balls off the pitcher
+BS,blown save
+CG,complete games
+division,"division the player's team is in; East, West, Central (denote along with the league abbreviation AL or NL)"
+ER,earned runs off the pitcher
+ERA,earned run average
+G,number of regular season games the player appeared in
+GS,games started
+H,hits off the pitcher
+HB,batters hit-by-pitch by a pitcher
+HLD,holds credited to a relief pitcher
+HR,homeruns off the pitcher
+IP,innings pitched
+K,strike outs by the pitcher
+L,losses credited to the pitcher
+league,league the player's team is in; American League (AL) or National League (NL)
+pitcherID_year,randomly assigned ID number in a year's data frame
+player,player's name
+R,runs off a pitcher
+salary,player's salary
+SHO,shut outs
+starter_relief,starting pitchers (designated as 1) or relief pitchers (designated as 0)
+SV,saves credited to the pitcher
+SVO,save opportunities
+team,three-letter abbreviation for player's team
+team_division_standing,season-end place of the player's team in their respective division
+team_rank,season-end rank of player's team by wins (highest to lowest; values 1-30)
+team_win_pct,percentage of season games by player's team that were wins (1 minus this value is the percentage of season games that were losses)
+team_wins,number of regular season wins by player's team
+W,wins credited to the pitcher
+WHIP,walks plus hits per inning pitched; (walks + hits) / innings pitched

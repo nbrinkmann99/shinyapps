@@ -1,0 +1,51 @@
+﻿variable_name,variable_description
+active_26man_payroll,payroll for the active 26-man rostered team
+avg_age,average age of team
+buried_payroll,"total payroll that a team is still responsible for paying for players who are not contributing to the team's active roster (e.g., in the minors, on the disabled list or long-term injury list, retired)"
+championship_series,number of wins in the league championship series if a team was in the league championship series
+division,"division the team is in; East, West, Central (denote along with the league abbreviation AL or NL)"
+division_series,number of wins in the division series if a team was in the division series
+division_standing,season-end place of teams in their respective divisions
+injured_payroll,total payroll for injured players
+L,number of regular season losses
+league,league the team is in; American League (AL) or National League (NL)
+loss_1Run,losses in one-run games
+loss_ExInn,losses in extra innings
+loss_home,losses at home
+loss_road,losses on the road
+loss_vCent,losses to Central Division teams
+loss_vEast,losses to Eastern Division teams
+loss_vLHP,losses against left-handed starting pitchers
+loss_vover500,losses against teams that have winning records
+loss_vRHP,losses against right-handed starting pitchers
+loss_vunder500,losses against teams that have losing records
+loss_vWest,losses to Western Division teams
+loss-inter,losses in Interleague games
+mean_runs,average number of runs scored per game by a team during the regular season
+mean_runs_agst,average number of runs scored per game against a team during the regular season
+mean_runs_diff,difference between average number of runs scored per game by a team and average number of runs scored per game against a team during the regular season
+postseason,"indication of whether or not a team made the playoffs; division_winner, wildcard, or no"
+postseason_wins,total number of postseason wins
+retained_payroll,"total payroll that a team is responsible for paying even after a player is no longer part of the team's active roster (e.g., traded, released, bought out)"
+salary_rank,team rank by salary (highest to lowest; values 1-30)
+SOS,strength of schedule; higher values indicate that a team played a tougher schedule; lower values indicate that a team played an easier schedule
+SRS,simple rating score; a metric that uses Rdiff and SOS to  (see Sports-Reference.com for details)
+team,three-letter abbreviation for each team
+team_rank,season-end rank of teams by wins (highest to lowest; values 1-30)
+total_payroll,total payroll
+W,number of regular season wins
+wildcard_series,number of wins in the wildcard series if a team was in the wildcard series
+win_1Run,wins in one-run games
+win_ExInn,wins in extra innings
+win_home,wins at home
+win_inter,wins in Interleague games
+win_pct,percentage of season games that were wins (1 minus this value is the percentage of season games that were losses)
+win_road,wins on the road
+win_vCent,wins over Central Division teams
+win_vEast,wins over Eastern Division teams
+win_vLHP,wins against left-handed starting pitchers
+win_vover500,wins against teams that have winning records
+win_vRHP,wins against right-handed starting pitchers
+win_vunder500,wins against teams that have losing records
+win_vWest,wins over Western Division teams
+world_series,number of wins in the world series if a team was in the world series
